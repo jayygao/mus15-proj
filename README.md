@@ -1,3 +1,3 @@
-first project for MUS15, creating an web project for a Japanese Artist
+first project for MUS15, creating an website for a Japanese Artist
 
--dedicated to ZUTOMAYO, detailing the artist in English
+- really simple divs and css
